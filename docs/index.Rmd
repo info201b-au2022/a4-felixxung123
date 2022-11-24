@@ -34,10 +34,13 @@ print(sum)
 ```
 
 ## Introduction 
-[TODO]
+
+The data set we are analyzing show the inequalities minorities face when it comes to incarceration. The system we are trying to fight has grown to normalize over incarcerating people who are under different circumstances. One of the sub articles on Vera's website explain how black people are two times more at risk of being incarcerated than other people. There have also been too many deaths from police brutality and it is usually affecting people of color. The people who are at stake from this research are the people of color, the people who are suffering from being wrongly incarcerated need people to help fight for their rights and equality and this type of research exposes the truth of the inequalities of incarceration. The indirect stakeholders could be those who are in power, corrupt police, politics, people in those areas. This is because they are the ones who are encouraging this behavior and normalizing these wrongs, they do not want this data to go public and have research exposing their wrongdoings.
 
 ## Data Summary 
-[TODO]
+
+
+
 
 [TODO ... other sections ... See Canvas for details]
 
